@@ -6,4 +6,4 @@ More info: https://www.vanderwaal.eu/mini-projecten/zen-barcode-generator
 
 &nbsp;
 
-<img src="https://www.vanderwaal.eu/files/zen-barcode-generator.jpg ">
+<img src="https://www.vanderwaal.eu/files/zen-barcode-generator.jpg">
